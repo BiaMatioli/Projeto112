@@ -1,0 +1,36 @@
+body {
+    color: white;
+    background: #c0d3ff;
+  }
+  
+  span {
+    font-size: 30px;
+  }
+  
+  #camera, #foto {
+    border: 2px dashed black;
+    width: 350px;
+    height: 300px;
+  }
+  
+  #resultado, #resultado2 {
+    color: black;
+  }
+  
+  .resultado {
+    font-size: 40px;
+  }
+  
+  .emoji {
+    font-size: 48px;
+  }
+  
+  #tagh3{
+    font-size: 50px;
+  }
+  
+  label{
+    font-size: 15px;
+    color: cornsilk;
+  }
+  
